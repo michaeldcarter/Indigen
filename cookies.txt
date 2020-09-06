@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.laneconstruct.com	TRUE	/	FALSE	1999999999	PHPSESSID	c9s78fa8m222q9428bj3i46hd2
+.laneconstruct.com	TRUE	/	FALSE	1999999999	__cfduid	df92ce54eb7595ce807cbed7cc79a4a6f1599237595
+www.laneconstruct.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.sosimplecms.com	TRUE	/	FALSE	1999999999	__cfduid	dad09b611b39adb017c25c3d572f2d54d1599237671
+clients.sosimplecms.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
